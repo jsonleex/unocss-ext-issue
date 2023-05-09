@@ -1,0 +1,17 @@
+{
+  "name": "unocss-ext-issue",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "play": "pnpm -p dev"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.2",
+    "unocss": "^0.51.12",
+    "vite": "^4.3.2"
+  }
+}
