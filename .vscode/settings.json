@@ -1,0 +1,6 @@
+{
+  "unocss.root": [
+    "packages/package-a",
+    "packages/package-b",
+  ]
+}
